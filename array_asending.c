@@ -7,6 +7,7 @@ int main()
 
 
 	printf("\n ENter the size of array:");
+	printf("\n ENter the size of array:");
 	scanf("%d",&size);
 
 
@@ -35,12 +36,12 @@ int main()
 
 
 	printf("\n Asending order elements of array:\n");
+	printf("\n Asending order elements of array:\n");
 	for(i=0;i<size;i++)
 	{
 		printf("array[%d]=%d\n",i,array[i]);
 
 	}
 
-return 0;
 
 }
