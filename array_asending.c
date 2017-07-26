@@ -3,7 +3,7 @@
 
 int main()
 {
-	int array[50],i,j,size,temp;
+	int array[50],i,j,size;
 
 
 	printf("\n ENter the size of array:");
