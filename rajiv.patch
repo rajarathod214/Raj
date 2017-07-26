@@ -1,0 +1,52 @@
+diff --git a/array_asending.c b/array_asending.c
+index 2f5225e..8b71d12 100644
+--- a/array_asending.c
++++ b/array_asending.c
+@@ -7,6 +7,7 @@ int main()
+ 
+ 
+ 	printf("\n ENter the size of array:");
++	printf("\n ENter the size of array:");
+ 	scanf("%d",&size);
+ 
+ 
+@@ -35,6 +36,7 @@ int main()
+ 
+ 
+ 	printf("\n Asending order elements of array:\n");
++	printf("\n Asending order elements of array:\n");
+ 	for(i=0;i<size;i++)
+ 	{
+ 		printf("array[%d]=%d\n",i,array[i]);
+diff --git a/array_decending.c b/array_decending.c
+index 6ab0539..f36b3de 100644
+--- a/array_decending.c
++++ b/array_decending.c
+@@ -11,6 +11,7 @@ int main()
+ 
+ 
+ 	printf("\n Enter the array elements:\n");
++	printf("\n Enter the array elements:\n");
+ 	for(i=0;i<size;i++)
+ 	{
+ 		printf("array[%d]=",i);
+@@ -38,6 +39,7 @@ int main()
+ 	for(i=0;i<size;i++)
+ 	{
+ 		printf("array[%d]=%d\n",i,array[i]);
++		printf("array[%d]=%d\n",i,array[i]);
+ 
+ 	}
+ 
+diff --git a/hello.c b/hello.c
+index dd33945..2220454 100644
+--- a/hello.c
++++ b/hello.c
+@@ -6,6 +6,7 @@ int main()
+ {
+ 
+ 	printf("\n  Hello World !!! \n");
++	printf("\n  Hello World !!! \n");
+ 
+ 
+ return 1;
