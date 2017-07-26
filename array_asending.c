@@ -7,8 +7,6 @@ int main()
 
 
 	printf("\n ENter the size of array:");
-	printf("\n ENter the size of array:");
-	printf("\n ENter the size of array:");
 	scanf("%d",&size);
 
 
@@ -43,5 +41,4 @@ int main()
 
 	}
 
-return 0;
 }
