@@ -11,6 +11,7 @@ int main()
 
 
 	printf("\n Enter the array elements:\n");
+	printf("\n Enter the array elements:\n");
 	for(i=0;i<size;i++)
 	{
 		printf("array[%d]=",i);
@@ -35,11 +36,12 @@ int main()
 
 
 	printf("\n Desending order  elements of array:\n");
+	printf("\n Desending order  elements of array:\n");
 	for(i=0;i<size;i++)
 	{
 		printf("array[%d]=%d\n",i,array[i]);
 
 	}
 
-
+return 0;
 }
